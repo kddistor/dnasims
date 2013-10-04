@@ -34,7 +34,7 @@ rm CentCGenConst$j.dat
 ./MosaikSort -in CentCGenConst$j.align  -out CentCGenConst$j.sorted -nu
 rm CentCGenConst$j.align
 #Convert .sorted to .assembled
-#./MosaikAssembler -in CentCGenConst$j.sorted -ia CentCRef.dat -out CentCGenConst$j.assembled
+./MosaikAssembler -in CentCGenConst$j.sorted -ia CentCRef.dat -out CentCGenConst$j.assembled
 rm CentCGenConst$j.sorted
 #Parse for information >> CentCGenConst.csv
 rm CentCGenConst$j.assembled
