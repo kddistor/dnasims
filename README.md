@@ -3,9 +3,9 @@ dnasims
 
 DNA simulations. Perl script to generated simulated DNA with different ways of inserting TEs. Shell script to run pipeline of analysis included
 
-# READ_ME - Dna Simulations
-# by Kevin Distor
-# University of California - Davis
+READ_ME - Dna Simulations
+by Kevin Distor
+University of California - Davis
 
 #####################################################################################################
 #	A series of scripts that generate DNA reads with known percentage of genetic elements inserted	#
