@@ -7,9 +7,8 @@ READ_ME - Dna Simulations
 by Kevin Distor
 University of California - Davis
 
-
-	A series of scripts that generate DNA reads with known percentage of genetic elements inserted	
-	Each script is not dependant on another since they do different functions.					 	#
+A series of scripts that generate DNA reads with known percentage of genetic elements inserted	
+Each script is not dependant on another since they do different functions.					 
 
 
 Scripts: 
